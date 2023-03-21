@@ -1,0 +1,27 @@
+:root {
+    scroll-behavior: smooth;
+  }
+
+body
+{
+ 
+  background-image: url(b4.jpg);
+  background-size: cover; 
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.container
+{
+font-style: italic;
+text-align: center;
+}
+
+h1
+{
+  font-style: italic;
+  color: white;
+  text-align: center;
+}
+
